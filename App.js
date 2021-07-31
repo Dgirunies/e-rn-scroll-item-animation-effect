@@ -5,7 +5,6 @@ import {
 	Animated,
 	Text,
 	View,
-	Dimensions,
 	StyleSheet,
 } from "react-native";
 import faker from "faker";
